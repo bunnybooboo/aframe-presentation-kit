@@ -4,7 +4,7 @@
   <h1>A-Frame</h1>
   <p>A web framework for building VR experiences</p>
   <p class="talk-info">
-    Twitter: @sw1ayfe | Mozilla Rep | Github: @bunnybooboo
+    Twitter: @sw1ayfe | Github: @bunnybooboo | aframe.io
   </p>
 </div>
 
