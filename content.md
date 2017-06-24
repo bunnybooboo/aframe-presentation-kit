@@ -625,7 +625,7 @@ iStaging
   <div>
     <img data-src="media/img/slack.png">
     <i>3000 members on Slack</i>
-    <i>https://aframevr.slack.com</i>
+    <i>aframevr.slack.com</i>
   </div>
   <div>
     <img data-src="media/img/scene-collage-circle.png">
