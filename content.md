@@ -624,7 +624,7 @@ iStaging
   </div>
   <div>
     <img data-src="media/img/slack.png">
-    <i>3000 members on Slack</i>
+    <i>4000 members on Slack</i>
   </div>
   <div>
     <img data-src="media/img/scene-collage-circle.png">
