@@ -620,12 +620,12 @@ iStaging
 <div class="captioned-image-row">
   <div>
     <img data-src="media/img/github.png">
-    <i>125 contributors 5000 Stargazers</i>
+    <i>171 contributors 5856 Stargazers</i>
   </div>
   <div>
     <img data-src="media/img/slack.png">
-    <i>4000 members on Slack</i>
-    <i>aframevr.slack.com</i>
+    <i>4000 Slack members</i>
+    <i>aframevr-slack.herokuapp.com</i>
   </div>
   <div>
     <img data-src="media/img/scene-collage-circle.png">
