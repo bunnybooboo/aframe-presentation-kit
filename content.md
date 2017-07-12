@@ -630,8 +630,7 @@ iStaging
   </div>
   <div>
     <img data-src="media/img/scene-collage-circle.png">
-    <i>100s of</i>
-    <i>featured projects</i>
+    <i>100s of featured projects</i>
   </div>
 </div>
 
