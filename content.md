@@ -626,6 +626,7 @@ iStaging
     <img data-src="media/img/slack.png">
     <i>4000+ Slack</i>
     <i>bit.ly/londonlovesaframe</i>
+    <i><3</i>
   </div>
   <div>
     <img data-src="media/img/scene-collage-circle.png">
