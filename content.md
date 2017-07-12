@@ -623,7 +623,7 @@ iStaging
     <i>173 contributors 5920 Stargazers</i>
   </div>
   <div>
-    <img data-src="media/img/slack.png">
+    <img data-src="media/img/slack.png" height: 300>
     <i>4000+ Slack</i>
     <i>bit.ly/londonlovesaframe</i>
     <i><3</i>
