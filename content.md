@@ -620,17 +620,18 @@ iStaging
 <div class="captioned-image-row">
   <div>
     <img data-src="media/img/github.png">
-    <i>173 contributors 5920 Stargazers</i>
+    <i>173 contributors</i>
+    <i>5920 Stargazers</i>
   </div>
   <div>
-    <img data-src="media/img/slack.png" height: 300>
+    <img data-src="media/img/slack.png">
     <i>4000+ Slack</i>
     <i>bit.ly/londonlovesaframe</i>
-    <i><3</i>
   </div>
   <div>
     <img data-src="media/img/scene-collage-circle.png">
-    <i>100s of featured projects</i>
+    <i>100s of</i>
+    <i>featured projects</i>
   </div>
 </div>
 
